@@ -59,12 +59,13 @@ To run the app locally, follow these steps:
 **Live Demo**
 You can try out the live version of the app [here](https://keepatrack-ikyzbbh7mvddpuk6vyxnhc.streamlit.app/).
 
-Technologies Used
+**Technologies Used**
 Streamlit: For creating the interactive web application.
 Pandas: For data manipulation and analysis.
 Plotly: For creating interactive charts and visualizations.
-Author
+
+**Author**
 This app was developed by Subhi Arjaria.
 
-Contributing
+**Contributing**
 Contributions are welcome! Please feel free to submit a Pull Request.
