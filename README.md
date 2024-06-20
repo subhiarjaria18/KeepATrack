@@ -57,7 +57,7 @@ To run the app locally, follow these steps:
 - Explore the main content area for insights, spending trends, and budget analysis.
 
 **Live Demo**
-You can try out the live version of the app here.
+You can try out the live version of the app [here](https://keepatrack-ikyzbbh7mvddpuk6vyxnhc.streamlit.app/).
 
 Technologies Used
 Streamlit: For creating the interactive web application.
