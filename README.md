@@ -36,7 +36,7 @@ To run the app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/keepatrack.git
+   git clone https://github.com/subhiarjaria18/keepatrack.git
    cd keepatrack
 2. Create a virtual environment and activate it:
    ```bash
